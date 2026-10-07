@@ -1,0 +1,11 @@
+﻿"lb4.exe" (Win32). Загружено "C:\Users\student\source\repos\lb4\x64\Debug\lb4.exe". Символы загружены.
+"lb4.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". 
+"lb4.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". 
+"lb4.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". 
+"lb4.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". 
+"lb4.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". 
+Поток 11792 завершился с кодом 0 (0x0).
+Поток 6112 завершился с кодом 3221225786 (0xc000013a).
+Поток 7076 завершился с кодом 3221225786 (0xc000013a).
+Поток 10728 завершился с кодом 3221225547 (0xc000004b).
+Программа "[9716] lb4.exe" завершилась с кодом 3221225786 (0xc000013a).
